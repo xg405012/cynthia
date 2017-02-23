@@ -1,4 +1,4 @@
-#homework2 second push
+#homework2 challenge 2
 # and lives over the cloud 
 # was a princess
 # cynthia
